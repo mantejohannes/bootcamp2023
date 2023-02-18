@@ -1,0 +1,149 @@
+nav .bios{
+    background-color: rgb(81, 81, 212);
+    color: white;
+    font-style: italic;
+    padding: 10px;
+    
+    
+} 
+footer table{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(81, 81, 212);
+    padding-bottom: 5vh;
+}
+footer table a{
+
+    border-radius: 50%; object-fit: cover; border: 5px solid rgb(245, 245, 255);
+   
+}
+
+nav .navbar{
+    background-color:rgb(81, 81, 212);
+    
+  }
+
+ 
+
+main {
+    width: 100%;
+    background-color: rgb(237, 238, 224);
+    
+  }
+ 
+
+
+ .foot{
+    padding-left: 3vh;
+    padding-top: 30px; 
+    padding-bottom: 30px;
+    color: rgb(221, 210, 210);
+    background-color: rgb(96, 96, 160);
+
+}
+
+nav .maincont{
+height: 75vh; 
+padding-left: 3vh;
+background-color:lightblue;
+background-image: image();
+color: rgb(0, 0, 0);
+font-weight: bold;
+}
+
+footer p{
+    background-color: lightblue;
+}
+
+
+.intro{
+
+    text-align: center;
+}
+
+
+
+.first{
+    display: flex;
+    background-color: #171651; 
+    width: 80%;
+    display: flex;
+    margin: auto;
+    margin-top: 2em;
+    color: #fff;
+    border-radius: 5px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.12), 
+          0 2px 2px rgba(0,0,0,0.12), 
+          0 4px 4px rgba(0,0,0,0.12), 
+          0 8px 8px rgba(0,0,0,0.12),
+          0 16px 16px rgba(0,0,0,0.12);
+}
+
+
+
+
+
+
+.second{
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+    margin-top: 1em;
+}
+
+.education{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    flex-direction: column;
+}
+
+.second h1{
+    text-align: center;
+}
+
+.edu-box{
+    display: flex;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.12), 
+    0 2px 2px rgba(0,0,0,0.12), 
+    0 4px 4px rgba(0,0,0,0.12), 
+    0 8px 8px rgba(0,0,0,0.12),
+    0 16px 16px rgba(0,0,0,0.12);
+    width: 100%;
+    margin-top: 1em;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+.date{
+    background-color: #1b1c54;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 45%;
+    color: #fff;
+}
+
+.edu-name{
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 55%;
+}
+
+.edu-name .p1{
+    margin-top: -1em;
+}
+
+.edu-name .p2{
+    margin-top:-9px;
+}
+
+
+
+
